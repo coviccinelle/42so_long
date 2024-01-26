@@ -22,8 +22,6 @@
    - [Map Components](#map-components)
    - [Valid Map Conditions](#valid-map-conditions)
    - [Map Structure](#map-structure)
-   - [Map Parsing](#map-parsing)
-   - [Error Handling](#error-handling)
 
 ## Common Instructions
 - Written in C.
