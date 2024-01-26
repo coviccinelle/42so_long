@@ -1,6 +1,8 @@
 
 # **So Long** _And Thanks for All the Fish_!
 
+![til](https://github.com/coviccinelle/42so_long/blob/main/so_long.gif)
+
 ## Table of Contents
 1. [Common Instructions](#common-instructions)
 2. [Mandatory Part - Program name: so_long](#mandatory-part)
