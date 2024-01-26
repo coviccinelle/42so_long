@@ -1,5 +1,5 @@
 
-# 🐝 🐟 🍯 **So Long** ✅ _And Thanks for All the Fish_!
+# 🐝🍯 **So Long** ✅ _And Thanks for All the Fish_! 🐟
 
 ![til](https://github.com/coviccinelle/42so_long/blob/main/ft_so_long.gif)
 
